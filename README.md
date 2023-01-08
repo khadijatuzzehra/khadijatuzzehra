@@ -7,8 +7,8 @@
 
 <h2>How to reach me:</h2>
 
-- <a href="khadijatuzehra@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+- <a href="">
+    <p></p>khadijatuzehra@gmail.com
   </a>
 
 - <a href="https://www.linkedin.com/in/khadija-tuz-zehra/">
