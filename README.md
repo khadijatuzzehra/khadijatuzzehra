@@ -7,10 +7,12 @@
 
 <h2>How to reach me:</h2>
 
-- :mailbox: khadijatuzehra@gmail.com
+- <a href="khadijatuzehra@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 - <a href="https://www.linkedin.com/in/khadija-tuz-zehra/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail"/>
   </a>
   
  <h2>Languages and Tools</h2>
