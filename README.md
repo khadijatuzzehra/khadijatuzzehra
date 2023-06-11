@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khadija 👋</h1>
-<h4>I'm a React Native Developer, passionate about staying up-to-date with the latest advancements in the mobile development landscape, I am committed to continuous learning and professional growth. I enjoy exploring new technologies and finding innovative solutions to deliver exceptional mobile experiences.</h4>
+<h4>A React Native Developer, passionate about staying up-to-date with the latest advancements in the mobile development landscape, I am committed to continuous learning and professional growth.</h4>
 
 - :telescope: Learning MERN and React Native.
 
