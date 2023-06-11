@@ -1,7 +1,7 @@
 ### Hi, I'm Khadija 👋
 <h4>I'm a React Native Developer, passionate about staying up-to-date with the latest advancements in the mobile development landscape, I am committed to continuous learning and professional growth. I enjoy exploring new technologies and finding innovative solutions to deliver exceptional mobile experiences.</h4>
 
-- :telescope: React Native Developer.
+- :telescope: Learning MERN and React Native.
 
 <h2>How to reach me:</h2>
 
