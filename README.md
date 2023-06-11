@@ -1,9 +1,7 @@
 ### Hi, I'm Khadija 👋
 <h4>I'm a Computer Science senior pursuing degree from Comsats University Islamabad, in a pursuit to explore my passion and become a specialist eventually.</h4>
 
-- :telescope: I’m working as a Software Engineer.
-
-- :seedling: Learning MERN and Machine Learning.
+- :telescope: I’m working as React Native Developer.
 
 <h2>How to reach me:</h2>
 
