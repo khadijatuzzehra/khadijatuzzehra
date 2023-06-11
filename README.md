@@ -2,6 +2,7 @@
 <h4>A React Native Developer, passionate about staying up-to-date with the latest advancements in the mobile development landscape, I am committed to continuous learning and professional growth.</h4>
 
 :telescope: Working as React Native Developer 
+⚡Fun Fact: Ctrl + C and Ctrl + V are my favorite dance moves on the keyboard!
 : Learning MERN and React Native.
 
 <h3>How to reach me</h2>
