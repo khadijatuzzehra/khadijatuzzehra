@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Khadija 👋</h1>
 <h4>A React Native Developer, passionate about staying up-to-date with the latest advancements in the mobile development landscape, I am committed to continuous learning and professional growth.</h4>
 
-- :telescope: Learning MERN and React Native.
+:telescope: Working as React Native Developer 
+: Learning MERN and React Native.
 
 <h3>How to reach me</h2>
 
@@ -14,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
- <h3>Languages and Tools</h2>
+ <h3>🔧 Tools and Technologies </h2>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
