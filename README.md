@@ -3,7 +3,7 @@
 
 - :telescope: Working as React Native Developer 
 - 🌱 Learning MERN stack
--⚡Fun Fact: Ctrl + C and Ctrl + V are my favorite dance moves on the keyboard!
+- ⚡Fun Fact: Ctrl + C and Ctrl + V are my favorite dance moves on the keyboard!
 
 <h3>How to reach me</h2>
 
