@@ -19,7 +19,7 @@
 </div>
   
  <h3>🔧 Tools and Technologies </h2>
-  <div>
+  <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python"
@@ -38,7 +38,9 @@ width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
  </div>
  
- ### :fire: My Stats :
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadijatuzzehra&theme=dark&background=000000)](https://git.io/streak-stats)
+ ### :fire: My Stats
+<div align="center">
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadijatuzzehra&theme=dark&background=000000)](https://git.io/streak-stats)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijatuzzehra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
