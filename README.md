@@ -46,5 +46,7 @@ width="40" height="40"/>&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijatuzzehra&layout=donut&theme=dark&background=000000)](https://github.com/khadijatuzzehra/github-readme-stats)
  
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=khadijatuzzehra&theme=dark&background=000000)](https://github.com/khadijatuzzehra/github-readme-stats)
+ 
+ [![Khadija's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khadijatuzzehra&layout=compact&theme=dark&background=000000)](https://github.com/khadijatuzzehra/github-readme-stats)
 </div>
 
