@@ -3,7 +3,7 @@
 
 - :telescope: Learning MERN and React Native.
 
-<h2>How to reach me:</h2>
+<h3>How to reach me</h2>
 
 <a href="mailto:khadijatuzehra@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
- <h2>Languages and Tools</h2>
+ <h3>Languages and Tools</h2>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
