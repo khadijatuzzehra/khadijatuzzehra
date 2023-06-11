@@ -41,9 +41,17 @@ width="40" height="40"/>&nbsp;
  ### :fire: My Stats
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadijatuzzehra&theme=dark&background=000000)](https://git.io/streak-stats)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijatuzzehra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- 
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=khadijatuzzehra)](https://github.com/khadijatuzzehra/github-readme-stats)
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijatuzzehra&theme=dark&background=000000" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijatuzzehra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+    </a>
+    <a href="https://github.com/khadijatuzzehra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=khadijatuzzehra" alt="GitHub Stats" />
+    </a>
+  </div>
+  
 </div>
+
