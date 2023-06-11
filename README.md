@@ -1,5 +1,5 @@
 ### Hi, I'm Khadija 👋
-<h4>I'm a Computer Science senior pursuing degree from Comsats University Islamabad, in a pursuit to explore my passion and become a specialist eventually.</h4>
+<h4>I'm a React Native Developer, passionate about staying up-to-date with the latest advancements in the mobile development landscape, I am committed to continuous learning and professional growth. I enjoy exploring new technologies and finding innovative solutions to deliver exceptional mobile experiences.</h4>
 
 - :telescope: I’m working as React Native Developer.
 
