@@ -5,12 +5,12 @@
 
 <h2>How to reach me:</h2>
 
-- <a href="">
-    <p></p>khadijatuzehra@gmail.com
+- <a href="khadijatuzehra@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
 - <a href="https://www.linkedin.com/in/khadija-tuz-zehra/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
  <h2>Languages and Tools</h2>
