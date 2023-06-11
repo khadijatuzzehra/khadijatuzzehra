@@ -7,14 +7,16 @@
 
 <h3>How to reach me</h2>
 
-<a href="mailto:khadijatuzehra@gmail.com">
+<div align="center">
+  <a href="mailto:khadijatuzehra@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 
 <a href="https://www.linkedin.com/in/khadija-tuz-zehra/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+</a>
+</div>
   
  <h3>🔧 Tools and Technologies </h2>
   <div>
