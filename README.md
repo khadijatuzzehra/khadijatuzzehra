@@ -45,12 +45,13 @@ width="40" height="40"/>&nbsp;
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijatuzzehra&theme=dark&background=000000" alt="GitHub Streak" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijatuzzehra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-    </a>
     <a href="https://github.com/khadijatuzzehra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=khadijatuzzehra" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijatuzzehra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+    </a>
+    
   </div>
   
 </div>
