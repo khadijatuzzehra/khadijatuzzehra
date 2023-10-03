@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Khadija 👋</h1>
+
 <h4>Innovative problem solver and lifelong learner, continuously exploring new horizons and creating meaningful solutions through the power of code.</h4>
 
 - :telescope: Working as React Native Developer 
