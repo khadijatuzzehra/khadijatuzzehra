@@ -4,7 +4,7 @@
 
 - :telescope: Working as Mobile Application Developer
 - 👨🏽‍💻 Full Stack Mobile Developer proficient in MERN
--🌱 Continuously advancing skills in the dynamic realm of full stack development
+- 🌱 Continuously advancing skills in the dynamic realm of full stack development
 - ⚡Fun Fact: Ctrl + C and Ctrl + V are my favorite dance moves on the keyboard!
 
 <h3>How to reach me</h2>
