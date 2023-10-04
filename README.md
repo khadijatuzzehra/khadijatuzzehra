@@ -46,6 +46,11 @@ width="50" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" **alt="Express" width="40" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
+      <h4>Development and Infrastructure Technologies</h4>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" width="50" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
  </div>
  
  ### :fire: My Stats
@@ -55,7 +60,6 @@ width="50" height="40"/>&nbsp;
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijatuzzehra&layout=donut&theme=dark&background=000000)](https://github.com/khadijatuzzehra/github-readme-stats)
  
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=khadijatuzzehra&theme=dark&background=000000)](https://github.com/khadijatuzzehra/github-readme-stats)
 
  <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
