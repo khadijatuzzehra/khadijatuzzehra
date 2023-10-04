@@ -21,7 +21,7 @@
 </div>
   
  <h3>🔧 Tools and Technologies </h2>
-  <div align="center">
+  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python"
 width="50" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="40"/>&nbsp;
