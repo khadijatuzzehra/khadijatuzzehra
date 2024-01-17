@@ -60,6 +60,8 @@ width="50" height="40"/>&nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadijatuzzehra&theme=dark&background=000000)](https://git.io/streak-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijatuzzehra&layout=donut&theme=dark&background=000000)](https://github.com/khadijatuzzehra/github-readme-stats)
+
+<a href="https://wakatime.com/@70f35dd4-f52e-48a1-952c-a58557930a57"><img src="https://wakatime.com/badge/user/70f35dd4-f52e-48a1-952c-a58557930a57.svg" alt="Total time coded since Jun 12 2023" /></a>
  
 
  <!--START_SECTION:waka-->
