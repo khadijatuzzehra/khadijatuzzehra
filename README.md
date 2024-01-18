@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://wakatime.com/@70f35dd4-f52e-48a1-952c-a58557930a57">
-    <img src="https://wakatime.com/badge/user/70f35dd4-f52e-48a1-952c-a58557930a57.svg" alt="Total time coded since Jun 12 2023" width="140" height="30"/>
+    <img src="https://wakatime.com/badge/user/70f35dd4-f52e-48a1-952c-a58557930a57.svg" alt="Total time coded since Jun 12 2023" width="180" height="30"/>
   </a>
   
   <a href="mailto:khadijatuzehra@gmail.com">
