@@ -7,26 +7,7 @@
 🌱 Continuously advancing skills in the dynamic realm of full stack development <br>
 ⚡Fun Fact: Ctrl + C and Ctrl + V are my favorite dance moves on the keyboard! <br>
 
-<h3>Skills</h3>
-<div style="border: 2px solid #333;
-      padding: 10px;
-      display: flex;
-      justify-content: space-between;">
-    <div style=" width: 30%; /* Adjust width as needed */
-      padding: 10px;
-      border: 1px solid #999;
-      box-sizing: border-box;">Div 1</div>
-    <div style=" width: 30%; 
-      padding: 10px;
-      border: 1px solid #999;
-      box-sizing: border-box;">Div 2</div>
-    <div style=" width: 30%; 
-      padding: 10px;
-      border: 1px solid #999;
-      box-sizing: border-box;">Div 3</div>
-</div>
-
-<h3>How to reach me</h3>
+<h3>About me</h3>
 
 <div align="center">
   <a href="https://wakatime.com/@70f35dd4-f52e-48a1-952c-a58557930a57">
