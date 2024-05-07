@@ -19,7 +19,7 @@
 <br>
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Currently working as Full Stack Mobile App Developer <br>
+- 🔭 Currently working as Full Stack Mobile Application Developer <br>
 
 - 👨🏽‍💻 I'm proficient in MERN, continuously advancing skills in the dynamic realm of full stack development <br>
 
