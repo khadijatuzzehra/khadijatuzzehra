@@ -95,8 +95,11 @@
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=khadijatuzzehra&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
-  <img src="https://camo.githubusercontent.com/64927d71d0bb89fec2d95bdc8c2f07d702f49b3ebe99e0a09218d74d804b6c83/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d6f68616d6d616468617269737a696126267374796c653d666c61742d737175617265" align="center" data-canonical-src="https://komarev.com/ghpvc/?username=khadijatuzzehra&amp;&amp;style=flat-square" style="max-width: 100%;">
+  <br></br>
+  
+   <img src="https://camo.githubusercontent.com/64927d71d0bb89fec2d95bdc8c2f07d702f49b3ebe99e0a09218d74d804b6c83/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d6f68616d6d616468617269737a696126267374796c653d666c61742d737175617265" align="center" data-canonical-src="https://komarev.com/ghpvc/?username=khadijatuzzehra&amp;&amp;style=flat-square">
   </td>
+  
 </tr>
 </table>
 </p>
